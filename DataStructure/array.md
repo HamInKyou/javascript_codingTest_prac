@@ -24,7 +24,7 @@ const arr4 = Array.from(
 
 ```javascript
 arr.push(el); // 끝에 추가 O(1)
-arr.push(el1, el2); // 끝에 여러개 추가 O(2)
+arr.push(el1, el2); // 끝에 여러개 추가 O(1)
 
 arr.splice(index, amount, el);
 //index 위치로부터 amount개 제거하고 el을 index위치에 추가
