@@ -100,3 +100,11 @@ const person = {
 // val = 0 또는 null 또는 '' 또는 undefined 또는 NaN 일 경우 false
 // 그 외에는 true
 ```
+
+## 10. 자바스크립트 입력 받기
+
+```javascript
+const fs = require("fs");
+const inputData = fs.readFileSync("/dev/stdin").toString().split(" ");
+//inputData는 string 배열이므로, 숫자 등 계산이 필요할 땐 형변환이 필요하다!
+```
