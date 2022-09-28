@@ -13,3 +13,4 @@
 | 10998 | AxB         | 구현/사칙연산/수학 | O       | https://www.acmicpc.net/problem/10998 |
 | 10869 | 사칙연산    | 구현/사칙연산/수학 | O       | https://www.acmicpc.net/problem/10869 |
 | 1008  | A/B         | 구현/사칙연산/수학 | O       | https://www.acmicpc.net/problem/1008  |
+| 11382 | 꼬마 정민   | 구현/사칙연산/수학 | O       | https://www.acmicpc.net/problem/11382 |
