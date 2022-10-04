@@ -24,3 +24,4 @@ F는 답봐도 이해가 안가는거
 | 2753  | 윤년           | 구현/사칙연산/수학 | O       | https://www.acmicpc.net/problem/2753  |      |
 | 2420  | 사파리월드     | 구현/사칙연산/수학 | O       | https://www.acmicpc.net/problem/2420  |      |
 | 2741  | N찍기          | 구현               | R       | https://www.acmicpc.net/problem/2741  |  💡  |
+| 10872 | 팩토리얼       | 구현/수학/조합론   | O       | https://www.acmicpc.net/problem/10872 |      |
