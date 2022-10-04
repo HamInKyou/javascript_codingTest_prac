@@ -18,3 +18,4 @@
 | 9498  | 시험 성적      | 구현               | O       | https://www.acmicpc.net/problem/9498  |      |
 | 14681 | 사분면 고르기  | 구현/기하학        | O       | https://www.acmicpc.net/problem/14681 |  💡  |
 | 2753  | 윤년           | 구현/사칙연산/수학 | O       | https://www.acmicpc.net/problem/2753  |      |
+| 2420  | 사파리월드     | 구현/사칙연산/수학 | O       | https://www.acmicpc.net/problem/2420  |      |
