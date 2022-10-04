@@ -15,3 +15,4 @@
 | 1008  | A/B            | 구현/사칙연산/수학 | O       | https://www.acmicpc.net/problem/1008  |
 | 11382 | 꼬마 정민      | 구현/사칙연산/수학 | O       | https://www.acmicpc.net/problem/11382 |
 | 1330  | 두 수 비교하기 | 구현               | O       | https://www.acmicpc.net/problem/1330  |
+| 9498  | 시험 성적      | 구현               | O       | https://www.acmicpc.net/problem/9498  |
