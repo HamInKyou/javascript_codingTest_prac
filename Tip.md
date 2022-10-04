@@ -20,9 +20,10 @@ for (let i = 5; i < 10; i += 1) {
 ### To - be
 
 ```javascript
-const sum = Array
-            .from(new Array(5), (\_, k) => k + 5)
-            .reduce((acc, cur) => acc + cur, 0);
+const sum = Array.from(new Array(5), (_, k) => k + 5).reduce(
+  (acc, cur) => acc + cur,
+  0
+);
 ```
 
 ## 3. 배열 내 같은 요소 제거
