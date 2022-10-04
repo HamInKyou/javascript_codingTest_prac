@@ -17,3 +17,4 @@
 | 1330  | 두 수 비교하기 | 구현               | O       | https://www.acmicpc.net/problem/1330  |      |
 | 9498  | 시험 성적      | 구현               | O       | https://www.acmicpc.net/problem/9498  |      |
 | 14681 | 사분면 고르기  | 구현/기하학        | O       | https://www.acmicpc.net/problem/14681 |  💡  |
+| 2753  | 윤년           | 구현/사칙연산/수학 | O       | https://www.acmicpc.net/problem/2753  |      |
