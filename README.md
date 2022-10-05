@@ -27,3 +27,4 @@ F는 답봐도 이해가 안가는거
 | 10872 | 팩토리얼       | 구현/수학/조합론   | O       | https://www.acmicpc.net/problem/10872 |      |
 | 10950 | A+B-3          | 구현/사칙연산/수학 | R       | https://www.acmicpc.net/problem/10950 |  💡  |
 | 10952 | A+B-5          | 구현/사칙연산/수학 | R       | https://www.acmicpc.net/problem/10952 |  💡  |
+| 2739  | 구구단         | 구현/수학          | O       | https://www.acmicpc.net/problem/2739  |      |
