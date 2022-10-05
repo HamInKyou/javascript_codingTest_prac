@@ -29,4 +29,5 @@ F는 답봐도 이해가 안가는거
 | 21    | 10952 | A+B-5          | 구현/사칙연산/수학 | R       | https://www.acmicpc.net/problem/10952 |  💡  |
 | 22    | 2739  | 구구단         | 구현/수학          | O       | https://www.acmicpc.net/problem/2739  |      |
 | 23    | 2739  | 별 찍기-1      | 구현               | R       | https://www.acmicpc.net/problem/2738  |      |
-| 24    | 10951 | A+B-4          | 구현/사칙연산/수학 | O       | https://www.acmicpc.net/problem/2738  |      |
+| 24    | 10951 | A+B-4          | 구현/사칙연산/수학 | O       | https://www.acmicpc.net/problem/10951 |      |
+| 25    | 15552 | 빠른 A+B       | 구현/사칙연산/수학 | R       | https://www.acmicpc.net/problem/15552 |  💡  |
