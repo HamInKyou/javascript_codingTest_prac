@@ -31,3 +31,4 @@ F는 답봐도 이해가 안가는거
 | 23    | 2739  | 별 찍기-1      | 구현               | R       | https://www.acmicpc.net/problem/2738  |      |
 | 24    | 10951 | A+B-4          | 구현/사칙연산/수학 | O       | https://www.acmicpc.net/problem/10951 |      |
 | 25    | 15552 | 빠른 A+B       | 구현/사칙연산/수학 | R       | https://www.acmicpc.net/problem/15552 |  💡  |
+| 26    | 10871 | X보다 작은 수  | 구현               | O       | https://www.acmicpc.net/problem/10871 |      |
