@@ -35,3 +35,4 @@ F는 답봐도 이해가 안가는거
 | 27    | 10807 | 개수 세기          | 구현               | O       | https://www.acmicpc.net/problem/10807 |      |
 | 28    | 5597  | 과제 안 내신 분..? | 구현               | O       | https://www.acmicpc.net/problem/5597  |  💡  |
 | 29    | 2738  | 행렬 덧셈          | 구현/수학          | O       | https://www.acmicpc.net/problem/2738  |      |
+| 30    | 11654 | 아스키 코드        | 구현               | R       | https://www.acmicpc.net/problem/11654 |  💡  |
