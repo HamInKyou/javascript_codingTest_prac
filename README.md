@@ -43,3 +43,4 @@ F는 답봐도 이해가 안가는거
 | 35    | 11718 | 그대로 출력하기    | 구현/문자열        | O       | https://www.acmicpc.net/problem/11718 |      |
 | 36    | 9086  | 문자열             | 구현/문자열        | O       | https://www.acmicpc.net/problem/9086  |      |
 | 37    | 15964 | 이상한 기호        | 사칙연산/수학/구현 | O       | https://www.acmicpc.net/problem/15964 |      |
+| 38    | 2475  | 검증수             | 사칙연산/수학/구현 | O       | https://www.acmicpc.net/problem/2475  |      |
