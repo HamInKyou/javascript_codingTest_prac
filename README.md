@@ -41,3 +41,4 @@ F는 답봐도 이해가 안가는거
 | 33    | 2754  | 학점계산           | 구현/문자열        | O       | https://www.acmicpc.net/problem/2754  |  💡  |
 | 34    | 10809 | 알파벳 찾기        | 구현/문자열        | O       | https://www.acmicpc.net/problem/10809 |  💡  |
 | 35    | 11718 | 그대로 출력하기    | 구현/문자열        | O       | https://www.acmicpc.net/problem/11718 |      |
+| 36    | 9086  | 문자열             | 구현/문자열        | O       | https://www.acmicpc.net/problem/9086  |      |
