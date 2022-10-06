@@ -36,3 +36,4 @@ F는 답봐도 이해가 안가는거
 | 28    | 5597  | 과제 안 내신 분..? | 구현               | O       | https://www.acmicpc.net/problem/5597  |  💡  |
 | 29    | 2738  | 행렬 덧셈          | 구현/수학          | O       | https://www.acmicpc.net/problem/2738  |      |
 | 30    | 11654 | 아스키 코드        | 구현               | R       | https://www.acmicpc.net/problem/11654 |  💡  |
+| 31    | 2743  | 단어 길이 재기     | 구현/문자열        | O       | https://www.acmicpc.net/problem/2743  |      |
