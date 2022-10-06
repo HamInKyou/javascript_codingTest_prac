@@ -37,4 +37,5 @@ F는 답봐도 이해가 안가는거
 | 29    | 2738  | 행렬 덧셈          | 구현/수학          | O       | https://www.acmicpc.net/problem/2738  |      |
 | 30    | 11654 | 아스키 코드        | 구현               | R       | https://www.acmicpc.net/problem/11654 |  💡  |
 | 31    | 2743  | 단어 길이 재기     | 구현/문자열        | O       | https://www.acmicpc.net/problem/2743  |      |
-| 32    | 2744  | 대소문자 바꾸기    | 구현/문자열        | R       | https://www.acmicpc.net/problem/2743  |  💡  |
+| 32    | 2744  | 대소문자 바꾸기    | 구현/문자열        | R       | https://www.acmicpc.net/problem/2744  |  💡  |
+| 33    | 2754  | 학점계산           | 구현/문자열        | O       | https://www.acmicpc.net/problem/2754  |  💡  |
