@@ -47,3 +47,4 @@ F는 답봐도 이해가 안가는거
 | 39    | 1152  | 단어의 개수        | 구현/문자열        | O       | https://www.acmicpc.net/problem/1152  |      |
 | 40    | 1157  | 단어 공부          | 구현/문자열        | O       | https://www.acmicpc.net/problem/1157  |      |
 | 41    | 1546  | 평균               | 사칙연산/수학      | O       | https://www.acmicpc.net/problem/1546  |      |
+| 42    | 2439  | 별 찍기 -2         | 구현               | O       | https://www.acmicpc.net/problem/2439  |      |
