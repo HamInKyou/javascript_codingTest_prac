@@ -56,4 +56,5 @@ F는 답봐도 이해가 안가는거
 | 48    | 2908  | 상수               | 구현/수학          | O       | https://www.acmicpc.net/problem/2908  |      |
 | 49    | 2920  | 음계               | 구현               | O       | https://www.acmicpc.net/problem/2920  |  💡  |
 | 50    | 3052  | 나머지             | 사칙연산/수학      | O       | https://www.acmicpc.net/problem/3052  |      |
-| 51    | 8958  | OX퀴즈             | 구현/문자열        | O       | https://www.acmicpc.net/problem/3052  |      |
+| 51    | 8958  | OX퀴즈             | 구현/문자열        | O       | https://www.acmicpc.net/problem/8958  |      |
+| 52    | 10818 | 최소, 최대         | 구현/수학          | O       | https://www.acmicpc.net/problem/10818 |      |
