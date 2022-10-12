@@ -28,7 +28,7 @@ F는 답봐도 이해가 안가는거
 | 20    | 10950 | A+B-3              | 구현/사칙연산/수학 | R       | https://www.acmicpc.net/problem/10950 |      |
 | 21    | 10952 | A+B-5              | 구현/사칙연산/수학 | R       | https://www.acmicpc.net/problem/10952 |  💡  |
 | 22    | 2739  | 구구단             | 구현/수학          | O       | https://www.acmicpc.net/problem/2739  |      |
-| 23    | 2739  | 별 찍기-1          | 구현               | R       | https://www.acmicpc.net/problem/2738  |      |
+| 23    | 2438  | 별 찍기-1          | 구현               | R       | https://www.acmicpc.net/problem/2438  |      |
 | 24    | 10951 | A+B-4              | 구현/사칙연산/수학 | O       | https://www.acmicpc.net/problem/10951 |      |
 | 25    | 15552 | 빠른 A+B           | 구현/사칙연산/수학 | R       | https://www.acmicpc.net/problem/15552 |  💡  |
 | 26    | 10871 | X보다 작은 수      | 구현               | O       | https://www.acmicpc.net/problem/10871 |      |
@@ -59,3 +59,4 @@ F는 답봐도 이해가 안가는거
 | 51    | 8958  | OX퀴즈             | 구현/문자열        | O       | https://www.acmicpc.net/problem/8958  |      |
 | 52    | 10818 | 최소, 최대         | 구현/수학          | O       | https://www.acmicpc.net/problem/10818 |      |
 | 53    | 11720 | 숫자의 합          | 구현/수학/문자열   | O       | https://www.acmicpc.net/problem/11720 |      |
+| 54    | 1018  | 체스판 다시 칠하기 | 브루트포스         | O       | https://www.acmicpc.net/problem/1018  |      |
