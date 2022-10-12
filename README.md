@@ -50,3 +50,4 @@ F는 답봐도 이해가 안가는거
 | 42    | 2439  | 별 찍기 -2         | 구현               | O       | https://www.acmicpc.net/problem/2439  |      |
 | 43    | 2562  | 최댓값             | 구현               | O       | https://www.acmicpc.net/problem/2562  |      |
 | 44    | 2577  | 숫자의 개수        | 사칙연산/수학/구현 | O       | https://www.acmicpc.net/problem/2577  |      |
+| 45    | 2675  | 문자열 반복        | 구현/문자열        | O       | https://www.acmicpc.net/problem/2675  |      |
