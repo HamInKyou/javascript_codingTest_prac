@@ -53,3 +53,4 @@ F는 답봐도 이해가 안가는거
 | 45    | 2675  | 문자열 반복        | 구현/문자열        | O       | https://www.acmicpc.net/problem/2675  |      |
 | 46    | 2742  | 기찍 N             | 구현               | O       | https://www.acmicpc.net/problem/2742  |      |
 | 47    | 2884  | 알람 시계          | 사칙연산/수학      | O       | https://www.acmicpc.net/problem/2884  |      |
+| 48    | 2908  | 상수               | 구현/수학          | O       | https://www.acmicpc.net/problem/2884  |      |
