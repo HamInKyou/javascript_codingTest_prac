@@ -55,3 +55,4 @@ F는 답봐도 이해가 안가는거
 | 47    | 2884  | 알람 시계          | 사칙연산/수학      | O       | https://www.acmicpc.net/problem/2884  |      |
 | 48    | 2908  | 상수               | 구현/수학          | O       | https://www.acmicpc.net/problem/2908  |      |
 | 49    | 2920  | 음계               | 구현               | O       | https://www.acmicpc.net/problem/2920  |  💡  |
+| 50    | 3052  | 나머지             | 사칙연산/수학      | O       | https://www.acmicpc.net/problem/3052  |      |
