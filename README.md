@@ -62,3 +62,4 @@ F는 답봐도 이해가 안가는거
 | 54    | 1018  | 체스판 다시 칠하기 | 브루트포스         | O       | https://www.acmicpc.net/problem/1018  |      |
 | 55    | 1085  | 직사각형에서 탈출  | 기하학/수학        | O       | https://www.acmicpc.net/problem/1085  |      |
 | 56    | 1181  | 단어 정렬          | 정렬/문자열        | O       | https://www.acmicpc.net/problem/1181  |      |
+| 57    | 1259  | 펠린드롬수         | 구현/문자열        | O       | https://www.acmicpc.net/problem/1259  |      |
