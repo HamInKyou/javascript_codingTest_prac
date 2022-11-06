@@ -61,10 +61,16 @@ class MaxHeap {
         [this.heap[cur], this.heap[left]] = [this.heap[left], this.heap[cur]];
         cur = left;
       }
-      left = current * 2;
-      right = current * 2 + 1;
+      left = cur * 2;
+      right = cur * 2 + 1;
     }
     return returnValue;
+  }
+  top() {
+    return this.heap[1];
+  }
+  isEmpty() {
+    return this.size() === 0;
   }
   size() {
     return this.heap.length - 1;
@@ -120,10 +126,79 @@ class MinHeap {
         [this.heap[cur], this.heap[left]] = [this.heap[left], this.heap[cur]];
         cur = left;
       }
-      left = current * 2;
-      right = current * 2 + 1;
+      left = cur * 2;
+      right = cur * 2 + 1;
     }
     return returnValue;
+  }
+  top() {
+    return this.heap[1];
+  }
+  isEmpty() {
+    return this.size() === 0;
+  }
+  size() {
+    return this.heap.length - 1;
+  }
+}
+```
+
+## 우선순위 큐
+
+최대 힙과 최소 힙을 아울러서 한번에 사용할 수 있게 만들어보았다.
+최대 힙 : compare = (a,b) => a < b
+최소 힙 : compare = (a,b) => a > b
+
+```javascript
+//우선순위 큐
+class Priority_Queue {
+  constructor(compare) {
+    this.heap = [null];
+    this.compare = compare;
+  }
+
+  push(value) {
+    this.heap.push(value);
+    let cur = this.heap.length - 1;
+    let parent = Math.floor(cur / 2);
+
+    while (cur > 1 && this.compare(this.heap[parent], this.heap[cur])) {
+      [this.heap[parent], this.heap[cur]] = [this.heap[cur], this.heap[parent]];
+      cur = parent;
+      parent = Math.floor(cur / 2);
+    }
+  }
+
+  pop() {
+    const returnValue = this.heap[1];
+    if (this.size() === 1) this.heap = [null];
+    else this.heap[1] = this.heap.pop();
+
+    let cur = 1;
+    let left = 2;
+    let right = 3;
+
+    while (
+      this.compare(this.heap[cur], this.heap[left]) ||
+      this.compare(this.heap[cur], this.heap[right])
+    ) {
+      if (this.compare(this.heap[left], this.heap[right])) {
+        [this.heap[cur], this.heap[right]] = [this.heap[right], this.heap[cur]];
+        cur = right;
+      } else {
+        [this.heap[cur], this.heap[left]] = [this.heap[left], this.heap[cur]];
+        cur = left;
+      }
+      left = cur * 2;
+      right = cur * 2 + 1;
+    }
+    return returnValue;
+  }
+  top() {
+    return this.heap[1];
+  }
+  isEmpty() {
+    return this.size() === 0;
   }
   size() {
     return this.heap.length - 1;
