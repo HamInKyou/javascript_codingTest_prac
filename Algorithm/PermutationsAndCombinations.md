@@ -2,7 +2,7 @@
 
 ## 순열(Permutations)
 
-서로 다른 n개의 물건에서 순서를 생각하지 않고 r개를 택하기
+서로 다른 n개의 물건중에서 r개를 택하여 한줄로 배열하기
 
 ```javascript
 const getPermutations = (arr, selectNumber) => {
@@ -27,7 +27,7 @@ const getPermutations = (arr, selectNumber) => {
 
 ## 조합(Combinations)
 
-서로 다른 n개의 물건중에서 r개를 택하여 한줄로 배열하기
+서로 다른 n개의 물건에서 순서를 생각하지 않고 r개를 택하기
 
 ```javascript
 const getCombinations = (arr, selectNumber) => {
