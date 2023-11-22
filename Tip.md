@@ -109,3 +109,4 @@ const fs = require("fs");
 const inputData = fs.readFileSync("/dev/stdin").toString().split(" ");
 //inputData는 string 배열이므로, 숫자 등 계산이 필요할 땐 형변환이 필요하다!
 ```
+ 
